@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PapiG0nz0
 - 👀 I’m interested in learning the latest technologies and working in different project's
-- 🌱 I’m currently learning front-end , back-end, AI & ML
+- 🌱 I’m currently learning Data science, AI & ML
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me gonzaloalcala0304@gmail.com
 
